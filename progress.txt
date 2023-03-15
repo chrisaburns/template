@@ -1,0 +1,4 @@
+
+
+got some nested classes for the simulation itself and the domain and sources
+make it work!
